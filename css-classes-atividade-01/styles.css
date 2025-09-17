@@ -1,0 +1,22 @@
+/* Siga as orientações no arquivo README para concluir o exercício */
+
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color:green;
+    color:purple;
+}
+
+.cabecalho {
+    background-color:aliceblue;
+    text-align:center;
+    color:brown;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.conteudo {
+    background-color:brown;
+    color:white;
+}
+
